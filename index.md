@@ -1,5 +1,5 @@
 ---
-layout: lesson      
+layout: workshop      
 ---
 This Library Carpentry lesson introduces people working in library- and information-related roles to working with litsearchr in RStudio for systematic reviews. At the conclusion of the lesson you will understand what the litsearchr package does and how to use RStudio to work with data files.
 

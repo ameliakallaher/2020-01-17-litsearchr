@@ -7,35 +7,10 @@
 #  dc: Data Carpentry
 #  lc: Library Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
-# Note that for regular workshops, you should use:
-#  https://github.com/carpentries/workshop-template
-# and for instructor training events you should use:
-#  https://github.com/carpentries/training-template
-carpentry: "swc"
-
-# This option is currently only needed for Data Carpentry workshops.
-# The value of the variable will be ignored for Software Carpentry and
-# Library Carpentry workshops.
-# Possible values are:
-# dc-ecology: for Data Carpentry Ecology workshops
-# dc-genomics: for Data Carpentry Genomics
-# dc-socsci: for Data Carpentry Social Sciences
-# dc-geospatial: for Data Carpentry Geospatial
-curriculum: "FIXME"
-
-# If there is both an R and python official version of a curriculum, change the
-# value of the variable below ("flavor") to get the schedule updated accordingly
-# (valid values are 'r' or 'python').
-# Note: this is only for Data Carpentry curricula at this time.
-flavor: "r"
+carpentry: "lc"
 
 # Overall title for the Workshop.
-# This variable is used to (optionally) add a title in the "jumbotron"
-# (the grey box at the top of the page), and to the extra pages.
-# Most workshops don't use extra pages. More information about extra
-# pages are included in the README:
-# https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Library Carpentry: litsearchr"
 
 
 #------------------------------------------------------------
@@ -43,7 +18,7 @@ title: "Workshop Title"
 #------------------------------------------------------------
 
 # What kind of thing is this ("workshop" or "lesson")?
-kind: "workshop"
+kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.

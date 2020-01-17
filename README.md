@@ -1,4 +1,4 @@
-# Maintainers for Library Carpentry: OpenRefine
+# Maintainers for Library Carpentry: litsearchr
 
 - [Amelia Kallaher](https://github.com/ameliakallaher) (Lead) 
 - [Eliza Grames](https://github.com/elizagrames)
